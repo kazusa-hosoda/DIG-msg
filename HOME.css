@@ -19,12 +19,13 @@
     font-size: 20px;
     min-width: 90%;
     min-height: auto;
+    color: #fff;
 }
 
 .メッセージ hr{
     height: 1px;
     border: 0;
-    border-top: 2px solid #000000;
+    border-top: 1px solid #ffffff;
 }
 
 .classimg{
