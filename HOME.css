@@ -28,6 +28,16 @@
     border-top: 1px solid #ffffff;
 }
 
+.video{
+    text-align: center;
+}
+
+.video video{
+    text-align: center;
+    max-width: 80%;
+    height: auto;
+}
+
 .classimg{
     text-align: center;
 }
